@@ -6,7 +6,6 @@ Welcome to the E-Commerce Website repository! This repository contains the sourc
 
 To set up and run the project locally, follow these steps:
 
-
 1. Install the project dependencies:
 
    ```bash
@@ -40,13 +39,13 @@ To set up and run the project locally, follow these steps:
 
 You can visit the live website by clicking [here](https://e-commerce-website-nine-bice.vercel.app/).
 
-## [Project Repo](https://github.com/MMansy19/E-Commerce-Website)
+## [Project Repo](https://github.com/kkartikeysetia/E-Commerce-Website-main)
 
 ## Contact
 
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
-- **Author**: [MMansy19](https://github.com/MMansy19)
-- **Website**: [Mahmoud Mansy Portfolio](https://mahmoud-mansy-portfolio.netlify.app/)
-- **Email**: [mahmoud2abdalfattah@gmail.com](mailto:mahmoud2abdalfattah@gmail.com)
-- **LinkedIn**: [Mahmoud Mansy](https://www.linkedin.com/in/mahmoud-mansy-a189a5232)
+- **Author**: [kkartikeysetia](https://github.com/kkartikeysetia/E-Commerce-Website-main)
+- **Website**: [Kartikey e-commerce webite ](https://mahmoud-mansy-portfolio.netlify.app/)
+- **Email**: [kartikeysetia22@gmail.com](mailto:kartikeysetia22@gmail.com)
+- **LinkedIn**: [Kartikey Setia](https://www.linkedin.com/in/kartikey-setia/)

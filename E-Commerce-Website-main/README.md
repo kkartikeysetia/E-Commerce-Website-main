@@ -2,7 +2,6 @@
 
 The E-commerce website is a full-stack application built using React with Vite as the bundler. It incorporates Tailwind CSS for styling and Material UI for components, offering a sleek and modern user interface. The platform provides essential functionalities such as signup and login for users to access their accounts, wishlist and cart pages for managing items, search functionality to easily find products, and a profile section for personalization. Furthermore, it includes checkout processes with support for coupons and purchasing, ensuring a seamless shopping experience for customers.
 
-
   <img  src="public/assets/Screenshots/0.png" alt="Home">
 
 ## [🌟Live Website🌟](https://e-commerce-mansy.vercel.app)
@@ -13,11 +12,8 @@ The E-commerce website is a full-stack application built using React with Vite a
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Set Up ](#set-up)
 - [Screenshots](#screenshots)
 - [Contact](#contact)
-
-
 
 ## Featured Skills
 
@@ -41,80 +37,32 @@ The E-commerce website is a full-stack application built using React with Vite a
 - **Git** (for version control)
 - **Responsive For Mobile**
 
-## Set Up
-
-To set up and run the project locally, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/MMansy19/E-Commerce-Website.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd E-Commerce-Website
-   ```
-
-3. Install the project dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Install `i18next` for internationalization:
-
-   ```bash
-   npm install i18next
-   ```
-
-5. Install `react-i18next` for React integration with i18next:
-
-   ```bash
-   npm install react-i18next
-   ```
-
-6. Install `flowbite-react` for UI components:
-
-   ```bash
-   npm install flowbite-react
-   ```
-
-7. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-
 ## Screenshots
+
 1. E-Commerce HomePage
-  <img  src="public/assets/Screenshots/E-Commerce HomePage.jpg" alt="E-Commerce HomePage">
+   <img  src="public/assets/Screenshots/E-Commerce HomePage.jpg" alt="E-Commerce HomePage">
 2. Sign Up
-  <img  src="public/assets/Screenshots/Sign Up.jpg" alt="Sign Up">
+   <img  src="public/assets/Screenshots/Sign Up.jpg" alt="Sign Up">
 3. Log In
-  <img  src="public/assets/Screenshots/Log In.jpg" alt="Log In">
+   <img  src="public/assets/Screenshots/Log In.jpg" alt="Log In">
 4. Product Details page
-  <img  src="public/assets/Screenshots/Product Details page.jpg" alt="Product Details page">
+   <img  src="public/assets/Screenshots/Product Details page.jpg" alt="Product Details page">
 5. Wishlist
-  <img  src="public/assets/Screenshots/Wishlist.jpg" alt="Wishlist">
+   <img  src="public/assets/Screenshots/Wishlist.jpg" alt="Wishlist">
 6. About
-  <img  src="public/assets/Screenshots/About.jpg" alt="About">
+   <img  src="public/assets/Screenshots/About.jpg" alt="About">
 7. Cart
-  <img  src="public/assets/Screenshots/Cart.jpg" alt="Cart">
+   <img  src="public/assets/Screenshots/Cart.jpg" alt="Cart">
 8. CheckOut
-  <img  src="public/assets/Screenshots/CheckOut.jpg" alt="CheckOut">
+   <img  src="public/assets/Screenshots/CheckOut.jpg" alt="CheckOut">
 9. Contact
-  <img  src="public/assets/Screenshots/Contact.jpg" alt="Contact">
+   <img  src="public/assets/Screenshots/Contact.jpg" alt="Contact">
 10. Account
-  <img  src="public/assets/Screenshots/Account.jpg" alt="Account">
-
-
-
+    <img  src="public/assets/Screenshots/Account.jpg" alt="Account">
 
 ## Contact
 
-- [Author](https://github.com/MMansy19)
+- [Author](https://github.com/kkartikeysetia/E-Commerce-Website-main)
 - [Website](https://mahmoud-mansy-portfolio.netlify.app/)
-- [Email](mailto:mahmoud2abdalfattah@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-mansy-a189a5232)
+- [Email](mailto:kartikeysetia22@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kartikey-setia/)

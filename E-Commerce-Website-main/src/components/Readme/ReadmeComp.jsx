@@ -14,7 +14,7 @@ import {
 import Slide from "@mui/material/Slide";
 import { motion } from "framer-motion";
 import { BsExclamation } from "react-icons/bs";
-import profilePic from "./profilePic2.1.png";
+// import profilePic from "./profilePic2.1.png";
 import Footer from "./Footer";
 
 const ReadmeComponent = () => {
@@ -67,7 +67,7 @@ const ReadmeComponent = () => {
             <div className="flex flex-row justify-between items-center h-16">
               <Typography variant="h6">
                 <span className="text-blue-500 hover:underline text-base md:text-lg">
-                  <a href="https://github.com/MMansy19/E-Commerce-Website">
+                  <a href="https://github.com/kkartikeysetia/E-Commerce-Website-main">
                     𝐀𝐩𝐩 𝐑𝐞𝐚𝐝𝐦𝐞
                   </a>
                 </span>
@@ -75,13 +75,13 @@ const ReadmeComponent = () => {
 
               <IconButton>
                 <a
-                  href="https://github.com/MMansy19"
+                  href="https://github.com/kkartikeysetia/E-Commerce-Website-main"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <Avatar
-                    alt="Mahmoud Mansy"
-                    src={profilePic}
+                    alt="Kartikey Setia"
+                    // src={profilePic}
                     sx={{
                       width: isMobile ? "60px" : "70px",
                       height: "auto",
@@ -105,9 +105,7 @@ const ReadmeComponent = () => {
                 paragraph
                 className="text-gray-800"
                 style={{ fontSize: isMobile ? ".9rem" : "1.25rem" }}
-              >
-                ⚡ 𝐈'𝐦 𝐚 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐑𝐞𝐚𝐜𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐢𝐭𝐡 𝟒𝟎+ 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
-              </Typography>
+              ></Typography>
               <Typography
                 variant={isMobile ? "body2" : "body1"}
                 textAlign="center"
@@ -132,10 +130,6 @@ const ReadmeComponent = () => {
                 Key Features:
               </Typography>
               <ul className="flex flex-col gap-2   ml-3 md:ml-6 mb-4 text-sm md:text-base text-gray-800 list-none">
-                <li>
-                  ✅ 𝑺𝒆𝒂𝒎𝒍𝒆𝒔𝒔 𝒎𝒖𝒍𝒕𝒊-𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝒔𝒖𝒑𝒑𝒐𝒓𝒕 (𝑬𝒏𝒈𝒍𝒊𝒔𝒉, 𝑨𝒓𝒂𝒃𝒊𝒄 , 𝑺𝒑𝒂𝒏𝒊𝒔𝒉
-                  𝒂𝒏𝒅 𝑮𝒆𝒓𝒎𝒂𝒏).
-                </li>
                 <li>
                   ✅ 𝑬𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒑𝒓𝒐𝒅𝒖𝒄𝒕 𝒔𝒆𝒂𝒓𝒄𝒉 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏𝒂𝒍𝒊𝒕𝒚 𝒇𝒐𝒓 𝒆𝒏𝒉𝒂𝒏𝒄𝒆𝒅 𝒖𝒔𝒆𝒓
                   𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆.
