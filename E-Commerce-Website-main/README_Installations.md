@@ -37,7 +37,7 @@ To set up and run the project locally, follow these steps:
 
 ## Live Website
 
-You can visit the live website by clicking [here](https://e-commerce-website-nine-bice.vercel.app/).
+You can visit the live website by clicking [here](https://e-commerce-website-mainkartikey.vercel.app/).
 
 ## [Project Repo](https://github.com/kkartikeysetia/E-Commerce-Website-main)
 
@@ -46,6 +46,6 @@ You can visit the live website by clicking [here](https://e-commerce-website-nin
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
 - **Author**: [kkartikeysetia](https://github.com/kkartikeysetia/E-Commerce-Website-main)
-- **Website**: [Kartikey e-commerce webite ](https://mahmoud-mansy-portfolio.netlify.app/)
+- **Website**: [Kartikey e-commerce webite ](https://e-commerce-website-mainkartikey.vercel.app/)
 - **Email**: [kartikeysetia22@gmail.com](mailto:kartikeysetia22@gmail.com)
 - **LinkedIn**: [Kartikey Setia](https://www.linkedin.com/in/kartikey-setia/)

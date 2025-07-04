@@ -4,7 +4,7 @@ The E-commerce website is a full-stack application built using React with Vite a
 
   <img  src="public/assets/Screenshots/0.png" alt="Home">
 
-## [🌟Live Website🌟](https://e-commerce-mansy.vercel.app)
+## [🌟Live Website🌟](https://e-commerce-website-mainkartikey.vercel.app/)
 
 ## [🌟Design on Figma 🌟](https://www.figma.com/file/yn2DFQJla0UiSMvomFsqwT/E-Commerce-Website-%D9%90Almdrasa?type=design&mode=design&t=fqPRRAQH5lDJGmoY-0)
 
@@ -63,6 +63,6 @@ The E-commerce website is a full-stack application built using React with Vite a
 ## Contact
 
 - [Author](https://github.com/kkartikeysetia/E-Commerce-Website-main)
-- [Website](https://mahmoud-mansy-portfolio.netlify.app/)
+- [Website](https://e-commerce-website-mainkartikey.vercel.app/)
 - [Email](mailto:kartikeysetia22@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/kartikey-setia/)
