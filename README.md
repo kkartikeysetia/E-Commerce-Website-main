@@ -12,21 +12,21 @@ The E-commerce website is a full-stack application built using React with Vite a
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Set up](#Set-up)
-- [Screenshots](#screenshots)
 - [Contact](#contact)
 
-## Featured Skills
+## 🚀 Features
 
-1. **React**: Utilized for building the frontend interface, providing dynamic and interactive components.
-2. **Vite**: Employed as the build tool to optimize and bundle the project for production.
-3. **Tailwind CSS**: Integrated for responsive and customizable styling, enhancing the visual aesthetics of the website.
-4. **Material UI**: Leveraged for pre-designed components and UI elements, facilitating rapid development and maintaining consistency in design.
-5. **Full-stack Development**: Implemented both frontend and backend functionalities, ensuring end-to-end functionality and user experience.
-6. **User Authentication**: Implemented signup and login features to authenticate users and secure their accounts.
-7. **Wishlist and Cart Management**: Developed functionalities to add, remove, and update items in the wishlist and cart, enhancing user engagement and convenience.
-8. **Search Functionality**: Implemented a search feature to enable users to find products efficiently based on their preferences.
-9. **Checkout Process**: Designed a seamless checkout process with support for applying coupons and completing purchases, streamlining the buying journey for users.
-10. **Fully Responsive**: seamless navigation and smooth user experience & fully resposive 
+1. ⚛️ **React** – Built the frontend using React for dynamic and interactive components.  
+2. ⚡ **Vite** – Used Vite as a fast, modern build tool to optimize and bundle the project.  
+3. 🎨 **Tailwind CSS** – Applied Tailwind for utility-first, responsive, and customizable styling.  
+4. 🧩 **Material UI** – Integrated pre-built components for sleek design and faster UI development.  
+5. 🌐 **Full-Stack Development** – Implemented both frontend and backend for complete functionality.  
+6. 🔐 **User Authentication** – Enabled secure signup and login features to protect user data.  
+7. 💖 **Wishlist & 🛒 Cart Management** – Users can add, remove, and update items easily.  
+8. 🔍 **Search Functionality** – Allows users to quickly find products based on preferences.  
+9. 💳 **Checkout Process** – Smooth checkout flow with coupon support and order placement.  
+10. 📱 **Fully Responsive Design** – Delivers a seamless experience across all devices.
+
 
 ## Technologies Used
 
@@ -71,32 +71,13 @@ To set up and run the project locally, follow these steps:
    npm run dev
    ```
 
-## Screenshots
-
-1. E-Commerce HomePage
-   <img  src="public/assets/Screenshots/E-Commerce HomePage.jpg" alt="E-Commerce HomePage">
-2. Sign Up
-   <img  src="public/assets/Screenshots/Sign Up.jpg" alt="Sign Up">
-3. Log In
-   <img  src="public/assets/Screenshots/Log In.jpg" alt="Log In">
-4. Product Details page
-   <img  src="public/assets/Screenshots/Product Details page.jpg" alt="Product Details page">
-5. Wishlist
-   <img  src="public/assets/Screenshots/Wishlist.jpg" alt="Wishlist">
-6. About
-   <img  src="public/assets/Screenshots/About.jpg" alt="About">
-7. Cart
-   <img  src="public/assets/Screenshots/Cart.jpg" alt="Cart">
-8. CheckOut
-   <img  src="public/assets/Screenshots/CheckOut.jpg" alt="CheckOut">
-9. Contact
-   <img  src="public/assets/Screenshots/Contact.jpg" alt="Contact">
-10. Account
-    <img  src="public/assets/Screenshots/Account.jpg" alt="Account">
-
 ## Contact
 
 - [Author](https://github.com/kkartikeysetia/E-Commerce-Website-main)
 - [Website](https://e-commerce-website-mainkartikey.vercel.app/)
 - [Email](mailto:kartikeysetia22@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/kartikey-setia/)
+
+  ## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
