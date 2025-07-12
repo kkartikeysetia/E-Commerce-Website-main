@@ -9,9 +9,7 @@ const tomorrow = new Date();
 tomorrow.setHours(tomorrow.getHours() + 24);
 
 const Deal = () => {
-  const [timeLeft, setTimeLeft] = useState(
-    calculateTimeLeft(tomorrow)
-  );
+  const [timeLeft, setTimeLeft] = useState(calculateTimeLeft(tomorrow));
 
   const dealItem = ITEMS.find(
     (item) => item.title === i18n.t("itemsArray.15.title")
@@ -33,25 +31,25 @@ const Deal = () => {
           {i18n.t("deal.title")}
         </h2>
         <div className="font-semibold text-base flex flex-row gap-6 text-black">
-          <div className="flex flex-col  items-center justify-center py-3 bg-white rounded-full">
+          <div className="flex flex-col  items-center justify-center py-3 bg-[#F5EFFF]  rounded-full">
             <span>{timeLeft.days}</span>
             <span className=" font-light text-xs w-[62px] text-center">
               {i18n.t("deal.days")}
             </span>
           </div>
-          <div className="flex flex-col  items-center justify-center py-3 bg-white rounded-full">
+          <div className="flex flex-col  items-center justify-center py-3 bg-[#F5EFFF]  rounded-full">
             <span>{timeLeft.hours}</span>
             <span className=" font-light text-xs w-[62px] text-center">
               {i18n.t("deal.hours")}
             </span>
           </div>
-          <div className="flex flex-col  items-center justify-center py-3 bg-white rounded-full">
+          <div className="flex flex-col  items-center justify-center py-3 bg-[#F5EFFF]  rounded-full">
             <span>{timeLeft.minutes}</span>
             <span className=" font-light text-xs w-[62px] text-center">
               {i18n.t("deal.minutes")}
             </span>
           </div>
-          <div className="flex flex-col  items-center justify-center py-3 bg-white rounded-full">
+          <div className="flex flex-col  items-center justify-center py-3 bg-[#F5EFFF]  rounded-full">
             <span>{timeLeft.seconds}</span>
             <span className=" font-light text-xs w-[62px] text-center">
               {i18n.t("deal.seconds")}

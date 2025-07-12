@@ -1,5 +1,5 @@
 // LangConfig.jsx
-import { ManageAccounts, Reviews } from "@mui/icons-material";
+// import { ManageAccounts, Reviews } from "@mui/icons-material";
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
 
@@ -442,7 +442,7 @@ const resources = {
         usage: "Terms Of Use",
         FAQ: "FAQ",
         Contact: "Contact",
-        copyrights: "© Copyright Rimel 2022. All rights reserved",
+        copyrights: "© Copyright 2025. All rights reserved",
         allRightsReserved: "© All rights reserved",
       },
     },
@@ -891,7 +891,7 @@ const resources = {
         usage: "Nutzungsbedingungen",
         FAQ: "FAQ",
         Contact: "Kontakt",
-        copyrights: "© Urheberrecht Rimel 2022. Alle Rechte vorbehalten",
+        copyrights: "© Urheberrecht Rimel 2025. Alle Rechte vorbehalten",
         allRightsReserved: "© Alle Rechte vorbehalten",
       },
     },
@@ -1780,7 +1780,7 @@ const resources = {
         FAQ: "Preguntas frecuentes",
         Contact: "Contáctenos",
         copyrights:
-          "© Derechos de autor Rimel 2022. Todos los derechos reservados",
+          "© Derechos de autor Rimel 2025. Todos los derechos reservados",
         allRightsReserved: "© Todos los derechos reservados",
       },
     },

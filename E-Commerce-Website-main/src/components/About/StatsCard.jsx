@@ -1,22 +1,24 @@
 /* eslint-disable react/prop-types */
 import { Box } from "@mui/material";
 import i18n from "../common/components/LangConfig";
+
 const StatsCard = ({ icon, value, description }) => {
   return (
-    <Box className="flex max-w-xs gap-4 items-center justify-center flex-col bg-white px-4 py-8 rounded-lg border border-gray-300 transition duration-300 hover:invert hover:bg-cyan-400  hover:shadow-xl">
+    <Box className="flex flex-col items-center justify-center gap-1 w-full bg-[#F5EFFF] px-6 py-8 rounded-lg border border-gray-300 transition duration-300 hover:invert hover:bg-cyan-400 hover:shadow-xl">
       <Box className="p-2 rounded-full bg-gray-300">
-        <Box className="text-4xl  invert  p-2 rounded-full bg-white  ">
+        <Box className="text-4xl invert p-2 rounded-full bg-[#F5EFFF]">
           {icon}
         </Box>
       </Box>
       <div className="font-bold text-3xl">{value}</div>
-      <p className="text-base ">{description}</p>
+      <p className="text-base">{description}</p>
     </Box>
   );
 };
+
 const StatsCardExported = () => {
   return (
-    <div className="mx-8 md:mx-32 grid grid-cols-1 lg:grid-cols-4 gap-8 ">
+    <div className="mx-8 md:mx-8 grid grid-cols-2 gap-8">
       <StatsCard
         icon={
           <svg
@@ -139,4 +141,5 @@ const StatsCardExported = () => {
     </div>
   );
 };
+
 export default StatsCardExported;

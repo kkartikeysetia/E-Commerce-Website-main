@@ -1,7 +1,7 @@
 const Arrows = () => {
   return (
     <div className="hidden md:block absolute  right-8 md:right-32 gap-2">
-      <button className="bg-white rounded-full shadow-lg p-2 hover:bg-gray-200 focus:outline-none">
+      <button className="bg-[#F5EFFF]  rounded-full shadow-lg p-2 hover:bg-gray-200 focus:outline-none">
         <svg
           width="18"
           height="16"
@@ -18,7 +18,7 @@ const Arrows = () => {
           />
         </svg>
       </button>
-      <button className="bg-white rounded-full shadow-lg p-2 hover:bg-gray-200 focus:outline-none">
+      <button className="bg-[#F5EFFF]  rounded-full shadow-lg p-2 hover:bg-gray-200 focus:outline-none">
         <svg
           width="19"
           height="16"

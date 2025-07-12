@@ -29,7 +29,7 @@ const ThemeSwitcher = () => {
     <div className="flex h-6 sm:h-8 w-10 sm:w-14 items-center justify-around  rounded-full bg-[#2e2f33] dark:bg-black">
       <button
         className={`${activeCircleStyles} ${
-          theme === "light" ? "bg-white" : ""
+          theme === "light" ? "bg-[#F5EFFF]" : ""
         }`}
         onClick={() => toggleTheme("light")}
       >
@@ -52,7 +52,7 @@ const ThemeSwitcher = () => {
       </button>
       <button
         className={`${activeCircleStyles} ${
-          theme === "dark" ? "bg-white" : ""
+          theme === "dark" ? "bg-[#F5EFFF]" : ""
         }`}
         onClick={() => toggleTheme("dark")}
       >

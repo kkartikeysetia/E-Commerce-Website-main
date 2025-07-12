@@ -24,7 +24,7 @@ const Payment = () => {
   // };
 
   return (
-    <div className="max-w-lg mx-auto p-6 bg-white rounded-lg shadow-md mt-48">
+    <div className="max-w-lg mx-auto p-6 bg-[#F5EFFF]  rounded-lg shadow-md mt-48">
       {/* Payment form */}
       <h1 className="text-2xl font-semibold mb-4">
         {i18n.t("payment.payment")}

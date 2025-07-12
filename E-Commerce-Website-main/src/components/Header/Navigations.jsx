@@ -102,7 +102,7 @@ const Navigations = () => {
               initial={{ x: -200, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 0.5 }}
-              className="px-5 py-20 w-60 bg-white h-screen flex flex-col justify-between"
+              className="px-5 py-20 w-60 bg-[#F5EFFF] h-screen flex flex-col justify-between"
             >
               <List>
                 {routes.map((route, index) => (

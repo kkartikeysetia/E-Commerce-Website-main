@@ -12,6 +12,9 @@
   width: 7px;
   background-color: rgb(248, 172, 172);
 }
+body {
+  background-color: #f5efff;
+}
 
 ::-webkit-scrollbar-thumb {
   background-color: rgb(0, 0, 0);
